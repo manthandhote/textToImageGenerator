@@ -70,9 +70,9 @@ if submitted:
 
     url = "https://ai-text-to-image-generator-flux-free-api.p.rapidapi.com/aaaaaaaaaaaaaaaaaiimagegenerator/quick.php"
     headers = {
-        "x-rapidapi-key": "80a986d0f0msh587f42439587da4p198a08jsn5da563aac75b",
-        "x-rapidapi-host": "ai-text-to-image-generator-flux-free-api.p.rapidapi.com",
-        "Content-Type": "application/json"
+        'x-rapidapi-key': 'b4674f6b5cmsh59d91b25a63e82fp14ae4fjsnf7e738c4a762',
+		'x-rapidapi-host': 'ai-text-to-image-generator-flux-free-api.p.rapidapi.com',
+		'Content-Type': 'application/json'
     }
 
     payload = {
